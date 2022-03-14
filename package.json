@@ -1,0 +1,16 @@
+{
+  "name": "babylonjs-webxr-meshpick",
+  "version": "1.0.0",
+  "description": "Babylon.js WebXR mesh picker",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {
+    "@babylonjs/core": "^4.2.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
