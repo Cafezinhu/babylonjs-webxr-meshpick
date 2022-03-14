@@ -1,16 +1,16 @@
-#Babylon.js WebXR MeshPick
+# Babylon.js WebXR MeshPick
 
 Helps mesh picking on WebXR.
 
-##Installing
+## Installing
 
-###npm
-`npm i https://github.com/Cafezinhu/babylonjs-webxr-meshpick`
+### npm
+```npm i https://github.com/Cafezinhu/babylonjs-webxr-meshpick```
 
-###yarn
-`yarn add https://github.com/Cafezinhu/babylonjs-webxr-meshpick`
+### yarn
+```yarn add https://github.com/Cafezinhu/babylonjs-webxr-meshpick```
 
-##Example usage
+## Example usage
 
 ```
 import { Engine, Scene } from "@babylonjs/core";
@@ -36,7 +36,7 @@ const canvas = document.querySelector('canvas');
 Credits to Jacob Durrant on 
 https://forum.babylonjs.com/t/detecting-headset-button-press-with-webxr-on-android-cardboard/8892/7
 
-##Features
+## Features
 - Picking with motion controllers ✅
 - Picking with default controllers on Android phones ✅
 - Picking with gamepad ❌
