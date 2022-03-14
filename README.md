@@ -5,10 +5,14 @@ Helps mesh picking on WebXR.
 ## Installing
 
 ### npm
-```npm i https://github.com/Cafezinhu/babylonjs-webxr-meshpick```
+```
+npm i https://github.com/Cafezinhu/babylonjs-webxr-meshpick
+```
 
 ### yarn
-```yarn add https://github.com/Cafezinhu/babylonjs-webxr-meshpick```
+```
+yarn add https://github.com/Cafezinhu/babylonjs-webxr-meshpick
+```
 
 ## Example usage
 
