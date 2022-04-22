@@ -11,7 +11,7 @@
     "/dist"
   ],
   "dependencies": {
-    "@babylonjs/core": "^4.2.2"
+    "@babylonjs/core": "^5.2.0"
   },
   "devDependencies": {
     "typescript": "^4.6.2"
