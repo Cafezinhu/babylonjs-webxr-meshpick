@@ -16,7 +16,7 @@ yarn add https://github.com/Cafezinhu/babylonjs-webxr-meshpick
 
 ## Example usage
 
-```
+```javascript
 import { Engine, Scene } from "@babylonjs/core";
 import { onWebXRPick } from 'babylonjs-webxr-meshpick';
 
